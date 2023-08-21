@@ -1,0 +1,26 @@
+/* Filters style */
+
+.filters{
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    height: 70px;
+    width: 100%;
+    line-height: 70px;
+}
+button{
+    background-color: #ff5a5f;
+    font-size: 18px;
+    color: #ffffff;
+    border: none;
+    height: 48px;
+    width: 20%;
+    border-radius: 4px;
+}
+button:hover{
+    opacity: 90%;
+}
+.rightalign{
+    text-align: right;
+    margin-right: 30px;
+}
